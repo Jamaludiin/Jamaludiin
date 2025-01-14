@@ -62,7 +62,7 @@
 ### 🔥 Check my Recent Projects
 - [Calculator Testing Project](link-to-repo) - Simple calculator with comprehensive test suite
 - [Test Automation Framework](link-to-repo) - Custom testing framework for Python applications
-- [LangChain-Tutorial] (https://github.com/Jamaludiin/LangChain-Tutorial) - Comprehensive guide and examples for working with LangChain
+- [LangChain-Tutorial](https://github.com/Jamaludiin/LangChain-Tutorial) - Comprehensive guide and examples for working with LangChain
   - 🤖 Integration with various LLM models
   - 📚 Examples of document loading and processing
   - 🔍 Vector stores and similarity search implementations
