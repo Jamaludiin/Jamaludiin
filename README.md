@@ -1,5 +1,4 @@
-# Jamaludiin
-<h1 align="center">Hi 👋, I'm Jamaludiin</h1>
+<h1 align="center">Hi 👋, I'm Jamal</h1>
 <h3 align="center">A passionate software developer and tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaludiin&label=Profile%20views&color=0e75b6&style=flat" alt="jamaludiin" /> </p>
@@ -23,8 +22,7 @@
 - [Test Automation Framework](link-to-repo) - Custom testing framework for Python applications
 
 ### 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](your-linkedin-url)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jamal-abdullahi-nuh-3bb38bb5/)
 
 ### 🎯 Current Focus
 
@@ -36,5 +34,5 @@
 
 ---
 <p align="center">
-<em>Let's connect and collaborate on interesting testing projects!</em>
+<em>Let's connect and collaborate on interesting projects!</em>
 </p>
