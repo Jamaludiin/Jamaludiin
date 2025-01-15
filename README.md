@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaludiin&label=Profile%20views&color=0e75b6&style=flat" alt="jamaludiin" /> </p>
 
-### 🧪 Testing & Development
-- 🔭 I'm currently working on **Python Testing Projects**
-- 🌱 I'm learning **Advanced Testing Methodologies**
-- 💡 Experienced with **pytest, unit testing, and test automation**
+### 🎯 Passionate About Software Engineering, Development, Testing, and Data Analysis
+- Driven by curiosity and innovation, I thrive on crafting efficient solutions, optimizing processes, and ensuring quality through rigorous testing. With a knack for problem-solving and a love for data-driven insights, I aim to create impactful and reliable software.
 
 ### 💻 Tech Stack 
 
