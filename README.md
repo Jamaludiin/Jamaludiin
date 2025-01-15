@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamal</h1>
 <h3 align="center">Passionate About Software Engineering, Development, Testing, and Data Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaludiin&label=Profile%20views&color=0e75b6&style=flat" alt="jamaludiin" /> </p>
-
 ### 🎯 Aspirations
 - Driven by curiosity and innovation, I thrive on crafting efficient solutions, optimizing processes, and ensuring quality through rigorous testing. With a knack for problem-solving and a love for data-driven insights, I aim to create impactful and reliable software.
 
@@ -81,3 +79,6 @@
 <p align="center">
 <em>Let's connect and collaborate on interesting projects!</em>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamaludiin&label=Profile%20views&color=0e75b6&style=flat" alt="jamaludiin" /> </p>
+
